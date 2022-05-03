@@ -1,12 +1,12 @@
-Hi 👋 My name is Octavio Lara
+Hi my name is Octavio Lara
 =============================
 
-Frontend Web Developer
+Frontend Web Developer :computer:
 ----------------------
 
-I've been coding for over 2 years now, focusing on Javascript and React for the last year. I recently graduated from 4geeks Fullstack Bootcamp and I'm currently working there as a tutor for new students. I am also working on a Mexican based Start Up.
+I've been coding for over 2 years now, focusing on Javascript and React for the last year. I recently graduated from 4geeks Fullstack Bootcamp and I'm currently working there as a tutor for new students,  I am also working on a Mexican based **start up** as a frontend developer.
 
-*   🌍  I'm based in Maturin, Venezuela
+*   🌍  I'm based in Maturin, Venezuela 🇻🇪
 *   ✉️  You can contact me at [octavioasapchi@gmail.com](mailto:octavioasapchi@gmail.com)
 *   🧠  I'm learning Redux, Framer Motion
 *   🤝  I'm open to collaborating on any cool frontend project
@@ -34,8 +34,6 @@ I've been coding for over 2 years now, focusing on Javascript and React for the 
 ### Socials
                   
 <p align="left"> <a href="https://www.github.com/olaracode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/octavio-lara-" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
