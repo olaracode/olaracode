@@ -4,12 +4,14 @@ Hi my name is Octavio Lara
 Frontend Web Developer :computer:
 ----------------------
 
-I've been coding for over 2 years now, focusing on Javascript and React for the last year. I recently graduated from 4geeks Fullstack Bootcamp and I'm currently working there as a tutor for new students,  I am also working on a Mexican based **start up** as a frontend developer.
+I've been coding for over 2 years now, focusing on Javascript and React for the last year. I recently graduated from 4geeks Fullstack Bootcamp and I'm currently working there as a tutor for new students.
+
 
 *   🌍  I'm based in Maturin, Venezuela 🇻🇪
 *   ✉️  You can contact me at [octavioasapchi@gmail.com](mailto:octavioasapchi@gmail.com)
 *   🧠  I'm learning Redux, Framer Motion
 *   🤝  I'm open to collaborating on any cool frontend project
+*   📁  Currently workin on a flying academy management system
 
 ### Skills
 <p align="left">
