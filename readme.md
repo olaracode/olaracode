@@ -2,9 +2,7 @@
 <h4 align="center">Venezuelan 🇻🇪 based web developer</h4>
 
 
-- 👨‍💼 Fullstack Teacher Assistant @4geeks
-
-- 💼 Frontend developer @Yoifirst 
+- 👨‍💼 Fullstack Teacher @4geeks
 
 - 🔭 I’m currently working on **React & Next.js Projects**
 
