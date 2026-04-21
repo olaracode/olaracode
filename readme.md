@@ -1,30 +1,46 @@
-<h1 align="center">Hi 👋, I'm Octavio Lara</h1>
-<h4 align="center">Venezuelan 🇻🇪 based web developer</h4>
+[![Banner](./banner-gh.png)](./banner-gh.png)
+# 👋, I'm Octavio Lara
+
+Frontend focused software developer with 3+ years working in tech and 5 years programming in total
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,astro,tailwind,bootstrap,python,flask,django,nodejs,express,mongodb,postgresql,swift)](https://skillicons.dev)
+---
+
+## Projects
+
+### Swift Learning
+> [Repository](https://github.com/olaracode/swift-ui#readme.md)
+
+While I learnt the basics of swiftui I developed a series of smaller projects, each exploring a different topic on my learning, ranging from basic rendering of components to a full crud application with authentication and notifications.
+
+### Rust Learning
+
+I dwelled a bit on Rust development for a short period of time, while I learn some cool things I wouldn't consider myself a "rustacean"
+
+**Repositories**
+
+- [Minigrep:](https://github.com/olaracode/rust-minigrep) Learning project that simulated a lite version of `grep` basically
+- [Rust Basics:](https://github.com/olaracode/basic-rust) My learning repository, where I went over data types and general concepts of the Rust Language with examples
+- [Basic Markdown Editor:](https://github.com/olaracode/md-editor) A basic desktop markdown editor built using Svelte + Tauri
+- [Reel To Comment:](https://github.com/olaracode/reel-to-comment) Comments generator that takes in an instagram posts data and generates comments based on this, which after get sent to telegram
+
+### Ruby
+
+My only experience with Ruby was using Rails for a job evaluation where I had to build an application
+
+**Repositories**
+
+- [Quake:](https://github.com/olaracode/quake) Fullstack application that fetches the data of the latest earthquakes and renders it, contains a map visualization(not 100% accurate)
+- [React On Rails:](https://github.com/olaracode/react-on-rails) Small template I created with a dockerized React + RoR application
+
+### Javascript + Typescript
+
+I've been working on javascript for over three years, so most of my projects are small practice projects targetted at a certain small part of the stack I'm looking to improve/experiment with
 
 
-- 👨‍💼 Fullstack Teacher @4geeks
+**Repositories**
 
-- 🔭 I’m currently working on **React & Next.js Projects**
-
-- 🌱 I’m currently learning **Typescript**
-
-- 🤓 Interested on learning Flutter & Nest.js
-
-- 👯 I’m looking to collaborate on **cool backend projects**
-
-- 📫 How to reach me **octavioasapchi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/octavio lara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="octavio lara" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olaracode&show_icons=true&locale=en&layout=compact" alt="olaracode" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olaracode&show_icons=true&locale=en" alt="olaracode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olaracode&" alt="olaracode" /></p>
-
+- [Preset-X](https://github.com/olaracode/preset-x) Svelte Website that uses an LLM api to generate Preset Banks for my guitar pedalboard
+- [Task System](https://github.com/olaracode/nextjs-task-system) **Technical Evaluation** Next.js Application that works as a task management | Tracking system, 
+- [React + Apollo](https://github.com/olaracode/rick-and-morty) **Technical Evaluation**: React application that fetches data from the rick and morty GraphQL API
+- [json-to-cv](https://github.com/olaracode/json-to-cv): Personal application I use to generate my cv based on a `json` file
